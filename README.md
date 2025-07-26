@@ -10,10 +10,22 @@ I like to working on a team and collaborate with other people.<br>
 
 ## GitHub Stats:
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=judperezre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=judperezre&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judperezre&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" />
+</a>
+</br>
+![Snake animation](https://github.com/thepiyushmalhotra/judperezre/blob/output/github-contribution-grid-snake.svg)
 
 ## Technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,unity,java,idea,cs,dotnet,git,github,mysql)](https://skillicons.dev)
+
+## Links:
+
+## Contact:
+
 <!--
 **judperezre/judperezre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
