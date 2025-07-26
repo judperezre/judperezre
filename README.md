@@ -17,7 +17,6 @@ I like to working on a team and collaborate with other people.<br>
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judperezre&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5" />
 </a>
 </br>
-![Snake animation](https://github.com/thepiyushmalhotra/judperezre/blob/output/github-contribution-grid-snake.svg)
 
 ## Technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,unity,java,idea,cs,dotnet,git,github,mysql)](https://skillicons.dev)
