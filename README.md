@@ -23,9 +23,23 @@ I like to working on a team and collaborate with other people.<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,unity,java,idea,cs,dotnet,git,github,mysql)](https://skillicons.dev)
 
 ## Links:
+<div align = "left">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=GoogleChrome&logoColor=white)](juanperezrestrepo.netlify.app)
+  [![Edge](https://img.shields.io/badge/juanperezrestrepo-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](juanperezrestrepo.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-p%C3%A9rez-restrepo-game-dev/)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-p%C3%A9rez-restrepo-game-dev/)
+</div>
 
 ## Contact:
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.perez822@pascualbravo.edu.co)
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/judperezre/judperezre/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 <!--
 **judperezre/judperezre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
