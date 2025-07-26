@@ -2,7 +2,7 @@
 
 ## About Me: 
 
-I enjoy everithing related with video games 🕹 and cybersecurity. 🔐<br>
+I enjoy everything related with video games 🕹 and cybersecurity. 🔐<br>
 I work well underpressure.<br>
 I like to working on a team and collaborate with other people.<br>
 🔭 I’m currently working on my own indie games.<br>
