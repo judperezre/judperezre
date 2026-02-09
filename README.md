@@ -25,7 +25,7 @@ I like to working on a team and collaborate with other people.<br>
 ## Links:
 <div align = "left">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=GoogleChrome&logoColor=white)](juanperezrestrepo.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://portfolio-90ov.onrender.com/)
   [![Edge](https://img.shields.io/badge/juanperezrestrepo-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](juanperezrestrepo.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-p%C3%A9rez-restrepo-game-dev/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-p%C3%A9rez-restrepo-game-dev/)
